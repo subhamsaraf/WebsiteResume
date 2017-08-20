@@ -1,0 +1,9 @@
+﻿body { background-color:beige;}
+body{color:blueviolet;}
+
+#heading {
+ text-align:center;      
+}
+.float-right {
+    float: right;
+}

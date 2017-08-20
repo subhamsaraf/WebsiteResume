@@ -1,0 +1,47 @@
+﻿
+html {
+    background: url(../resources/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.First-body {
+    width: 350px;
+    height: 500px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    color: aliceblue;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center
+}
+
+.my-image {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 40px;
+}
+p{
+    font-weight:400;
+}
+.socialmedia-icons{
+    font-size:40px;
+
+}
+.socialmedia-icons a{
+    color:white
+}
+.salutation-line {
+    width: 300px;
+    margin: 0 auto;
+    border-top:2px solid white;
+}
+
